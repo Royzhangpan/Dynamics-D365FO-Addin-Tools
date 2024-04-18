@@ -1,0 +1,8 @@
+﻿TableName,LabelId,Label_En-us,Label_Zh-hans,Primary Index,,,,,,
+CBTestAddIn,,Test Addin,中国,ItemIdx,5,6,7,8,,
+FieldName,LabelId,Label_En-us,Label_Zh-hans,Data Type,EDT,Parent EDT,Enum Type,String size,Primary Index,Related Table
+IntField,,Integer,中国,int,,,,,,,,
+ItemId,,String,中国,str,ItemId,,,,Yes,InventTable,ItemId
+DateField,,Date,中国,date,FromDate,,,,,,,
+DateTimeField,,datatime,中国,datatime,,,,,,,,
+RealField,,Relad,中国,real,,,,,,,,

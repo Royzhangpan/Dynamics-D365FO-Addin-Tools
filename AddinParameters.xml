@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parameters>
+  <Global>
+    <Prefix>HSO</Prefix>
+    <DefaultLabelId>HSO</DefaultLabelId>
+  </Global>
+  <XPOConvert>
+    <OldPrefix>TTA_;TNY_</OldPrefix>
+    <Replace>true</Replace>
+    <Version>AX2012</Version>
+  </XPOConvert>
+</Parameters>
+
